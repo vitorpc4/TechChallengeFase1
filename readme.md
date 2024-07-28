@@ -69,9 +69,13 @@ URL BASE: https://personal-wb3amgnv.outsystemscloud.com/TechChallenge_Backend/re
 Através da URL base é possível conferir a documentação dos endpoints disponíveis. As ações possíveis são:
 
 POST: {URL BASE}/posts
+
 GET: {URL BASE}/posts
+
 PUT: {URL BASE}/posts
+
 GET: {URL BASE}/posts/{postId}
+
 POST: {URL BASE}/posts/{postId}
 
 Finalizado o back-end, iniciamos a construção do frontend.
