@@ -1,5 +1,12 @@
 <h1>TECH-CHALLENGE 1</h1>
 
+# Integrantes
+* Lorenzo - RM357527
+* Vitor Henrique Laia Martins - RM357177
+* Felipe Alves Amodio - RM357145
+* Fernando Caixeta do Amaral - RM357887
+* Ynara Resende - RM357404
+
 # Problema
 Uma escola da rede pública de educação não possui uma ferramenta para postagem e compartilhamento de conhecimento. Dessa forma, é necessário desenvolver um sistema para que os professores possam criar postagens e os alunos possam acessar esse conteúdo, respectivamente.
 
