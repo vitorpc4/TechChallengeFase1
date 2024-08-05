@@ -28,7 +28,7 @@ O Event Storming descreve o fluxo que pode ser seguido para o desenvolvimento do
 
 # Diagrama de sequência
 
-O Diagrama de sequência, foi feito com base no CRUD que é realizado pelos professores. Dessa forma, é comteplado o fluxo de ações  que o professor irá realizar. Isso facilitou o trabalho de definição de nomes de rotas e criações de funções.
+O Diagrama de sequência foi feito com base no CRUD que é realizado pelos professores. Dessa forma, é contemplado o fluxo de ações  que o professor irá realizar. Isso facilitou o trabalho de definição de nomes de rotas e criações de funções.
 
 ![Diagrama de sequência](DiagramaDeSequência.png)
 
@@ -37,7 +37,7 @@ O Diagrama de sequência, foi feito com base no CRUD que é realizado pelos prof
 
 # Execução
 
-Baseando-se nos requisitos técnicos estabelecidos pela ativadade, que requiriu o uso da platoforma OutSystems, desenvolvemos 3 modulos. Um backend para realizar as operações necessárias e dois frontends um para o administrador (Professor) e outro para os alunos conseguirem acessar.
+Baseando-se nos requisitos técnicos estabelecidos pela atividades, que requer o uso da plataforma OutSystems, desenvolvemos 3 módulos. Um backend para realizar as operações necessárias e dois frontends um para o administrador (Professor) e outro para os alunos conseguirem acessar.
 
 <hr/>
 
@@ -114,7 +114,7 @@ Abaixo, irei listar como o administrador deve realizar as operações necessári
 </li>
 </ol>
 
-Ao realizar essa operação, será criada uma publicação ou salvo um rascunho, que não é exibido para os alunos.
+Ao realizar essa operação, será criada uma publicação ou salvar um rascunho, que não é exibido para os alunos.
 
 Ex:
 
@@ -133,7 +133,7 @@ Ex:
 </li>
 </ol>
 
-Após realizar essa operação, o post será atualizado e será exbido para os alunos.
+Após realizar essa operação, o post será atualizado e será exibido para os alunos.
 
 Ex:
 
@@ -145,13 +145,13 @@ Ex:
     <li>Acessar o painel e clicar em uma postagem.</li>
     <li>Clicar no botão Remove</li>
     <li>Um alerta será exibido solicitando confirmação; basta concordar</li>
-    <li>Após aprovar, a postagem será excluída.</li>
+    <li>Após aprovar, a postagem será excluida.</li>
 </ol>
 
 ![Exclusão de post](DeletePost.gif)
 
 
-<h3>Acesso as postagens</h3>
+<h3>Acesso às postagens</h3>
 
 Para ter acesso às postagens, basta acessar a URL informada no início das orientações do painel de administrador.
 
